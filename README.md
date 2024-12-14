@@ -8,8 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
-
+"C:\Users\ketha\Downloads\DALL·E 2024-12-14 10.01.09 - A conceptual and artistic visual representation of a Library Management System in SQL. The image features a modern digital dashboard interface with ta.webp"
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
